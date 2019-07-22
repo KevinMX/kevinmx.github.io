@@ -4,34 +4,17 @@
 
 此网站就是咱的个人主页啦，欢迎访问~
 
-### 以后会有什么？
+### Who am I?
 
-可能会有一些自己日常随笔/折腾日志/etc
+一个啥也不会的菜鸡，假装是个Geek ;)
 
-```markdown
-Syntax highlighted code block
+### What is this page?
 
-# Header 1
-## Header 2
-### Header 3
+仍然咕咕中的个人主页，以后会改主题，大概会当个人blog用吧？
+（Still learning markdown)
 
-- Bulleted
-- List
+至于这个[域名](kevinmx.tk)和[github page](kevinmx.github.io)能苟多久，咱也不知道（摊手）
 
-1. Numbered
-2. List
+以后会把自己在简书上的文章（选择性）搬过来。
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KevinMX/kevinmx.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+恩，大概就这样吧。
