@@ -4,7 +4,7 @@
 
 ~~此网站就是咱的个人主页啦，欢迎访问~~~
 
-网站迁移至[此处](https://mary.kevinmx.tk/)
+~~网站迁移至[此处](https://mary.kevinmx.tk/)~~
 
 ### Who am I?
 
